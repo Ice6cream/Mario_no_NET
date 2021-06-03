@@ -1,0 +1,11 @@
+﻿  main.cpp
+c:\users\andry\desktop\mario_no_net\mariononet\mariononet\main.cpp(95): warning C4244: инициализация: преобразование "sf::Int32" в "float", возможна потеря данных
+c:\users\andry\desktop\mario_no_net\mariononet\mariononet\main.cpp(106): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\andry\desktop\mario_no_net\mariononet\mariononet\main.cpp(123): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\andry\desktop\mario_no_net\mariononet\mariononet\main.cpp(133): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\andry\desktop\mario_no_net\mariononet\mariononet\main.cpp(143): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\andry\desktop\mario_no_net\mariononet\mariononet\main.cpp(151): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\andry\desktop\mario_no_net\mariononet\mariononet\main.cpp(162): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\andry\desktop\mario_no_net\mariononet\mariononet\main.cpp(169): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\andry\desktop\mario_no_net\mariononet\mariononet\main.cpp(170): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  MarioNoNet.vcxproj -> C:\Users\andry\Desktop\Mario_no_net\MarioNoNet\Debug\MarioNoNet.exe
